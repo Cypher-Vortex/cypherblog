@@ -10,7 +10,7 @@ github_username:  Cypher-Vortex
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-remote-theme: jekyll-theme-cayman-blog
+theme: 
 
 # social
 author: Jonatas S.
