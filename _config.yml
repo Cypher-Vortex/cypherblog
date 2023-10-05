@@ -3,14 +3,14 @@ email: chyphervortex@gmail.com
 description: >-
   A following line robot   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cypher-vortex.github.io/cypherblog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cypher-vortex.github.io/cypherblog/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Cypher-Vortex
 
 # Build settings
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-theme: # leave it empty
+theme: theme-cayman-blog
 
 # social
 author: Jonatas S.
