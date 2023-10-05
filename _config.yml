@@ -3,7 +3,7 @@ email: chyphervortex@gmail.com
 description: >-
   A following line robot   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cypher-vortex.github.io/cyphervortex" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cypher-vortex.github.io/cypherblog" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Cypher-Vortex
 
 # Build settings
@@ -13,7 +13,7 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: Jonatas S.
 # image: /thumbnail-jumbo.png
 
 plugins:
