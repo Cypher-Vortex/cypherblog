@@ -4,24 +4,22 @@ description: >-
   A following line robot   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cypher-vortex.github.io/cypherblog/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Cypher-Vortex
 
 # Build settings
-cayman-blog:
-  date_format: "%b %-d, %Y"
 
-theme: jekyll-theme-cayman-blog
+theme: minima
 
 # social
 author: Jonatas S.
 # image: /thumbnail-jumbo.png
 
 plugins:
-  - jekyll-target-blank
   - jekyll-feed
+  - jekyll-seo-tag
 
-target-blank:
-    rel: nofollow
+# Minima date format.
 
-header_page_refs: ['now', 'about', 'contact']
-  
+date_format: "%b %-d, %Y"
+
+- { platform: github,         user_url: "https://github.com/Cypher-Vortex" }
+- { platform: youtube,        user_url: "https://www.youtube.com/@CypherVortexInnovators." }
