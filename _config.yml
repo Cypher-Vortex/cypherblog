@@ -1,4 +1,7 @@
+
 title: Cypher-Vortex
+author: Jonatas
+name: Cypher-Vortex
 email: chyphervortex@gmail.com
 description: >-
   A following line robot   
@@ -20,6 +23,3 @@ plugins:
 # Minima date format.
 
 date_format: "%b %-d, %Y"
-
-- { platform: github,         user_url: "https://github.com/Cypher-Vortex" }
-- { platform: youtube,        user_url: "https://www.youtube.com/@CypherVortexInnovators." }
