@@ -27,7 +27,5 @@ Nós somos um grupo de estudantes da instituição Anhanguera. Nossa equipe é c
 
 O Cyphyer Vortex é um robô seguidor de linha com características bem específicas desenvolvidas especificamente para ter o melhor desempenho em uma competição de seguidores de linha, com ênfase em desempenho e curto espaço de execução do objetivo.
 
-[pagina inicial]({{ '/' | absolute_url }})
-
 [Eduardo-Furlan]: https://github.com/efurlanm
 [cientificas-EAC]: https://eac.pgsscogna.com.br/

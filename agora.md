@@ -12,5 +12,3 @@ A proposta da competição de seguidores de linhas foi uma ideia do nosso profes
 Com o intuito de deixar as aulas um pouco menos entediantes por conta do extenso conteudo da matéria, propos aos alunos da tumar uma competição entre robores seguidores de linha. 
 
 Atualmente o projeto se encontra em fase final de testes.
-
-[pagina inicial]({{ '/' | absolute_url }})
