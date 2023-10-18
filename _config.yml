@@ -1,13 +1,11 @@
 
 title: Cypher-Vortex
-author: Jonatas
-name: Cypher-Vortex
 email: chyphervortex@gmail.com
 description: >-
   Blog criado com o intuito de divulgar nosso trabalho e expor atualizações e informações a respeito da competição e do andamento da criação do nosso robo seguidor de linhas.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cypher-vortex.github.io/cypherblog/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Cypher-Vortex
+github_username: Cypher-Vortex
 
 # Build settings
 
