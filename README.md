@@ -3,7 +3,7 @@ blog com informações a respeito do robo seguidor de linha.
 
 # Menbros do Grupo
 - [Jonatas S. Conceição](https://github.com/JonatasSC).
-- Marcos
+- Marco Antonio Ortiz Lima
 - Paulo César Cordeiro
 - Gabriel Godoy Alves Pinha
 
