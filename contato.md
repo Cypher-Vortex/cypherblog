@@ -6,5 +6,5 @@ permalink: /contact.html
 ref: contact
 order: 1
 ---
-<h2>Formas de entrar em contato</h2>
-Caso tenha alguma dúvida a respeito pode entrar em contato conosco pelo nosso E-mail *chyphervortex@gmail.com*. Manteremos sempre o blog atualizado a respeito de como anda o desenvolvimento do projeto aqui no blog.
+<h2>Entre em contato conosco</h2>
+Caso tenha alguma dúvida a respeito pode entrar em contato conosco pelo nosso E-mail **chyphervortex@gmail.com**, tambem temos nosso canal no [youtube](https://www.youtube.com/@CypherVortexInnovators.) aonde você pode ver o resultado final do projeto.

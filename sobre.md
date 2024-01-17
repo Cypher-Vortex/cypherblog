@@ -9,7 +9,7 @@ order: 0
 
 <h2>Visão e valores</h2>
 
-Nosso objetivo vai além da participação na competição proposta por nosso professor [Eduardo Furlan][Eduardo-Furlan] (*Sistemas Digitais e Microprocessadores*), que foi o grande incentivador de todo esse projeto. Vemos isso como uma forma de aprender e adquirir experiência que vai ser de exímia importância tanto para a dar início a vida profissional quanto para o desenvolvimento da mesma, já que o desenvolvimento do projeto exige diversas habilidades e responsabilidades de todos os membros nele envolvidos.
+Nosso objetivo vai além da participação na competição proposta por nosso professor [Eduardo Furlan][Eduardo-Furlan] responsavél pela materia Sistemas Digitais e Microprocessadores, que foi o grande incentivador de todo esse projeto. Vemos isso como uma forma de aprender e adquirir uma experiência que vai ser muito importante para a dar início a vida profissional, já que o desenvolvimento do projeto exige diversas habilidades e responsabilidades de todos os membros nele envolvidos.
 
 Nosso grupo inicialmente não era composto por esses membros, mas depois de algumas conversas e trocas de ideia percebemos que tinhamos um ponto de vista em comum e decidimos nos juntar em prol de algo maior e graças a colaboração e dedicação de cada um estamos fazendo o projeto se desenvolver.
 
@@ -23,9 +23,13 @@ Nós somos um grupo de estudantes da instituição Anhanguera. Nossa equipe é c
  
  **Gabriel Godoy** Responsavel por desenvolver a parte visual e gravação da montagem do robô que será postado no site de encontro de atividades [cientificas EAC][cientificas-EAC].
 
+ **Paulo César Cordeiro**
+
+ **Marco Antonio Ortiz Lima**
+
  <h2>Sobre o Cypher-Vortex</h2>
 
-O Cyphyer Vortex é um robô seguidor de linha com características bem específicas desenvolvidas especificamente para ter o melhor desempenho em uma competição de seguidores de linha, com ênfase em desempenho e curto espaço de execução do objetivo.
+O Cyphyer Vortex é um robô seguidor de linha com características desenvolvidas especificamente para ter o melhor desempenho em uma competição de seguidores de linha, com ênfase em desempenho e curto espaço de execução do objetivo.
 
 [Eduardo-Furlan]: https://github.com/efurlanm
 [cientificas-EAC]: https://eac.pgsscogna.com.br/
