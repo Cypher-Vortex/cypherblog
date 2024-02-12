@@ -7,6 +7,11 @@ ref: about
 order: 0
 ---
 
+<h2>Cypher-Vortex</h2>
+
+O Cyphyer Vortex é um robô seguidor de linha com características desenvolvidas especificamente para ter o melhor desempenho em uma competição de seguidores de linha, com ênfase em desempenho e curto espaço de execução do objetivo.
+
+
 <h2>Visão e valores</h2>
 
 Nosso objetivo vai além da participação na competição proposta por nosso professor [Eduardo Furlan][Eduardo-Furlan] responsavél pela materia Sistemas Digitais e Microprocessadores, que foi o grande incentivador de todo esse projeto. Vemos isso como uma forma de aprender e adquirir uma experiência que vai ser muito importante para a dar início a vida profissional, já que o desenvolvimento do projeto exige diversas habilidades e responsabilidades de todos os membros nele envolvidos.
@@ -27,9 +32,6 @@ Nós somos um grupo de estudantes da instituição Anhanguera. Nossa equipe é c
 
  **Marco Antonio Ortiz Lima**
 
- <h2>Sobre o Cypher-Vortex</h2>
-
-O Cyphyer Vortex é um robô seguidor de linha com características desenvolvidas especificamente para ter o melhor desempenho em uma competição de seguidores de linha, com ênfase em desempenho e curto espaço de execução do objetivo.
-
+ 
 [Eduardo-Furlan]: https://github.com/efurlanm
 [cientificas-EAC]: https://eac.pgsscogna.com.br/

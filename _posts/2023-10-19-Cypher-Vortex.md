@@ -3,7 +3,7 @@ layout: post
 title:  "Oque é o Cypher-Vortex"
 date:   2023-10-19 12:00:52 -0300
 author: Jonatas S.
-permalink: /cv
+permalink: /Sobre
 ---
 
 

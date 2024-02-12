@@ -3,7 +3,7 @@ layout: post
 title:  "Primeiros passos da criação do robo seguidor de linha"
 date:   2023-09-18 00:00:52 -0200
 author: Jonatas S.
-permalink: /fs
+permalink: /firststep
 ---
 
 As primeiras coisas que decidimos fazer no nosso projeto foram escolher quais seriam os materiais que seriam usados, depois dividimos as funções do grupo deixando cada um responsável pelo que mais se identificavam para auxiliar no desenvolvimento do projeto.
