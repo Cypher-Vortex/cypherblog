@@ -6,7 +6,7 @@ author: Jonatas S.
 permalink: /fontCode
 ---
 
-![Imagem do Robo](/assets/Robot.jpg)
+![Imagem do Robo][{{site.url}}(/assets/Robot.jpg)]
 
 
 `Este foi o design final do robo, oque agradou a todos os membros do grupo.`
